@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+input, select, button {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+nav button {
+  margin-right: 10px;
+}
